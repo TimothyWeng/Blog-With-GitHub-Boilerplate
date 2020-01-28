@@ -62,7 +62,7 @@ social_links = [
     {
         "name": "Twitter",
         "url": "https://twitter.com/AlanDecode",
-        "icon": "gi gi-twitter"
+        "icon": "gi gi-facebook"
     },
     {
         "name": "GitHub",
